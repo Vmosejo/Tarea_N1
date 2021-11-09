@@ -28,7 +28,11 @@ De estas unidades fundamentales tenemos una rama la cual nos muestra cantidades 
 CANTIDADES ELECTRICAS Y DERIVADAS
  
 CANTIDADES MAGNETICAS Y DERIVADAS
- 
+
+![1_MC](https://user-images.githubusercontent.com/93666408/140862940-6318104d-f854-4b15-b6cc-419778a940fc.jpeg)
+![2_MC](https://user-images.githubusercontent.com/93666408/140862943-64129984-2471-4d60-a2ea-b823d755f496.jpeg)
+![3_MC](https://user-images.githubusercontent.com/93666408/140862946-d9112523-bcd8-4fac-a82c-963fb29c0f88.jpeg)
+
 
 1.2.	NOTACIÓN CIENTÍFICA 
 
