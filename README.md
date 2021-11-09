@@ -41,6 +41,13 @@ NOTACIÓN NEGATIVA
  
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![1](https://user-images.githubusercontent.com/93681159/140837239-669ebdb9-3125-4929-9066-b0a96b38e6ac.PNG)
+![2](https://user-images.githubusercontent.com/93681159/140837327-40d0b96a-5efa-4f69-b56a-c00e56b51e05.PNG)
+![3](https://user-images.githubusercontent.com/93681159/140837329-c8e70b85-e718-411e-88ab-39c1d2a8f812.PNG)
+![4](https://user-images.githubusercontent.com/93681159/140837345-573e4513-0951-4394-9dab-e9c74b07785e.PNG)
+![5](https://user-images.githubusercontent.com/93681159/140837348-808154ab-7178-420b-a968-2ed7beb3a14b.PNG)
+![6](https://user-images.githubusercontent.com/93681159/140837342-5dda8cd5-bdca-4470-9058-2cafe55d4d55.PNG)
+![7](https://user-images.githubusercontent.com/93681159/140837344-aba51468-b267-499e-bb3b-957530bfd6f7.PNG)
 ## 4. VIDEO
 ## 5. CONCLUSIONES
 ## 6. BIBLIOGRAFÍA
