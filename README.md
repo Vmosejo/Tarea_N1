@@ -1,5 +1,5 @@
 # Tarea_N1
-## 1. ObJETIVOS
+## 1. OBJETIVOS
 
    1.1 General
     
@@ -48,6 +48,19 @@ NOTACIÓN NEGATIVA
 ![5](https://user-images.githubusercontent.com/93681159/140837348-808154ab-7178-420b-a968-2ed7beb3a14b.PNG)
 ![6](https://user-images.githubusercontent.com/93681159/140837342-5dda8cd5-bdca-4470-9058-2cafe55d4d55.PNG)
 ![7](https://user-images.githubusercontent.com/93681159/140837344-aba51468-b267-499e-bb3b-957530bfd6f7.PNG)
+![1](https://user-images.githubusercontent.com/93666408/140859935-eab3120c-1bea-4e45-8508-6a770ba8b592.PNG)
+![2](https://user-images.githubusercontent.com/93666408/140859940-69277c2b-8ae0-4a73-b22b-e16af0daf385.PNG)
+![3](https://user-images.githubusercontent.com/93666408/140859941-c1a644e0-2e4c-4a8b-9c05-90aee246637c.PNG)
+![4](https://user-images.githubusercontent.com/93666408/140859944-2284aa99-cc79-4e07-a6f6-6522a26ce7ed.PNG)
+![5](https://user-images.githubusercontent.com/93666408/140859948-1b833e4c-b2a5-4144-b3e0-8a4f3a1d8301.PNG)
+![6](https://user-images.githubusercontent.com/93666408/140859949-3d03782e-e363-41c0-a62c-1a2530fbcccb.PNG)
+![7](https://user-images.githubusercontent.com/93666408/140859953-9d26fe83-884d-4219-bdda-31ecfe5240d4.PNG)
+![8](https://user-images.githubusercontent.com/93666408/140859954-1d383748-52c1-46d1-8922-e3c888925d63.PNG)
+![9](https://user-images.githubusercontent.com/93666408/140859956-b7e524e0-a5c8-462b-a366-1fd7b197fcef.PNG)
+![10](https://user-images.githubusercontent.com/93666408/140859960-fad92526-c662-448b-828e-a3bd63f66601.PNG)
+![11](https://user-images.githubusercontent.com/93666408/140859962-a63dc4b9-88c0-4515-82cd-c732d0f6e889.PNG)
+![12](https://user-images.githubusercontent.com/93666408/140859964-9c8a0854-96cf-4d84-b820-b7654608e307.PNG)
+
 ## 4. VIDEO
 ## 5. CONCLUSIONES
 ## 6. BIBLIOGRAFÍA
