@@ -49,3 +49,4 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 ## 4. VIDEO
 ## 5. CONCLUSIONES
 ## 6. BIBLIOGRAFÍA
+* Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
