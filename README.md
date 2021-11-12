@@ -50,7 +50,7 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 Enlace video subido a youtube:
 https://youtu.be/OKHFzTgEQ7c
 ## 5. CONCLUSIONES
-•En la tarea presente se logró alcanzar los objetivos planteados a su vez se consiguió la comprensión y ampliar el conocimiento sobre el capítulo 1 con el tema Cantidades y unidades también el capítulo 2 con el tema Voltaje, corriente y resistencia, también se estudió sobre la composición de la estructura atómica que desenvuelve una función importante para discernir los conocimientos posteriores.
-•Se consiguió realizar un trabajo eficiente y reconocer que el concepto de voltaje es uno de los más importantes por lo que se puede aplicar a la mayoría de aspectos que componen la Ingeniería, se comprobó la función notable que cumplen las resistencias. Gracias a los ejercicios resueltos se verifico y se logró deducir lo fundamentales que son las formulas planteadas en el capítulo 2.
+* En la tarea presente se logró alcanzar los objetivos planteados a su vez que se consiguió comprender y ampliar el conocimiento sobre el capítulo 1 con el tema "Cantidades y unidades", también el capítulo 2 con el tema "Voltaje, corriente y resistencia", asimismo se estudió la composición de la estructura atómica que sera utilizada como base principal para los temas posteriores.
+* Se realizo un trabajo eficiente y que permite reconocer que el concepto de voltaje es uno de los más importantes por lo que se puede aplicar a la mayoría de aspectos que componen la Ingeniería, se comprobó la función notable que cumplen las resistencias. Gracias a los ejercicios resueltos se verifico y se logró deducir lo fundamentales que son las formulas planteadas en el capítulo 2.
 ## 6. BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
