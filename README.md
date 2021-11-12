@@ -47,6 +47,8 @@ CAPITULO 2 - VOLTAJE CORRIENTE Y RESISTENCIA:
 ![12](https://user-images.githubusercontent.com/93666408/140859964-9c8a0854-96cf-4d84-b820-b7654608e307.PNG)
 
 ## 4. VIDEO
+Enlace video subido a youtebe:
+https://youtu.be/OKHFzTgEQ7c
 ## 5. CONCLUSIONES
 En la tarea presente se logró alcanzar los objetivos planteados a su vez se consiguió la comprensión y ampliar el conocimiento sobre el capítulo 1 con el tema Cantidades y unidades también el capítulo 2 con el tema Voltaje, corriente y resistencia, también se estudió sobre la composición de la estructura atómica que desenvuelve una función importante para discernir los conocimientos posteriores.
 Se logró realizar un trabajo eficiente y reconocer que el concepto de voltaje es uno de los más importantes por lo que se puede aplicar a la mayoría de aspectos que componen la Ingeniería, se comprobó la función notable que cumplen las resistencias. Gracias a los ejercicios resueltos se verifico y se logró deducir lo fundamentales que son las formulas planteadas en el capítulo 2.
