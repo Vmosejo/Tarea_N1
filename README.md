@@ -8,7 +8,10 @@ Examinar todos los contenidos presentes en los capítulos uno y dos del texto "P
    1.2 Especificos
 
 * Aplicar los conceptos adquiridos a lo largo de los capítulos uno y dos del texto, mediante la elaboración de los ejercicios propuestos en el mismo, para una mayor comprensión de cada uno de los tópicos.
-* Demostrar 
+* Analizar el funcionamiento del Sistema internacional de medidas y su relación con la notación científica y de ingeniería. 
+* Interpretar de manera acertada los conceptos de voltaje, corriente y resistencia con el fin de comprender el funcionamiento de los circuitos básicos.
+
+
 ## 2. MARCO TEÓRICO (RESUMEN)
 INTRODUCCIÓN:
 La persona que va a leer este resumen debe conocer unidades utilizadas en la electrónica para una mejor comprensión de la materia, ya que la notación científica es indispensable para nuestra carrera y será necesario saber como ponerla en practica ya sea para utilizarla en aparatos tecnológicos o para una notación antigua como realizar los cálculos a manos de esta manera tendremos las bases necesarias para así desarrollar nuestros ejercicios o problemas que se nos presenten con el pasar del tiempo.  
